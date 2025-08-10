@@ -121,3 +121,13 @@ def main():
 
 if __name__ == "__main__":
     sys.exit(main())
+
+import pandas as pd
+
+# Assuming your profitable flips are in a list of dicts called "flips"
+# Example: flips = [{"pet": "Golem", "profit": 5000}, ...]
+
+df = pd.DataFrame(flips)
+df.to_csv("flips.csv", index=False)  # Saves file in repo root
+print("Flips saved to flips.csv")
+
