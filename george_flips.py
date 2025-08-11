@@ -1,5 +1,5 @@
 import requests
-import pandas as pd
+
 from datetime import datetime
 
 # ---- George prices (replace with updated ones from Hypixel Wiki) ----
