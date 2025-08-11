@@ -50,3 +50,27 @@ def save_flips(flips):
 if __name__ == "__main__":
     flips = find_flips()
     save_flips(flips)
+import csv
+import os
+from datetime import datetime
+
+def save_flips_csv(flips):
+    if not flips:
+        return
+    file_exists = os.path.isfile("flips.csv")
+    with open("flips.csv", mode="a", newline="") as f:
+        writer = csv.writer(f)
+        if not file_exists:
+            writer.writerow(["Timestamp", "Pet", "Rarity", "Auction Price", "George Price", "Profit"])
+        for fdata in flips:
+            writer.writerow([
+                datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+                fdata["pet"],
+                fdata["rarity"],
+                fdata["auction_price"],
+                fdata["george_price"],
+                fdata["profit"]
+            ])
+
+# After you compute `flips`:
+save_flips_csv(flips)
