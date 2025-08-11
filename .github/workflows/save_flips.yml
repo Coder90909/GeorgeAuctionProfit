@@ -30,3 +30,10 @@ jobs:
           git add flips.csv
           git commit -m "Update flips.csv" || echo "No changes to commit"
           git push
+    - name: Commit flips.csv
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "bot@github.com"
+        git add flips.csv
+        git commit -m "Update flips.csv" || echo "No flips found this run"
+        git push
