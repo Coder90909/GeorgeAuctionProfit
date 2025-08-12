@@ -1,205 +1,39 @@
 {
-  "blue_whale": {
-    "legendary": 5000000,
-    "epic": 500000
-  },
-  "lion": {
-    "legendary": 5000000,
-    "epic": 500000
-  },
-  "monkey": {
-    "legendary": 5000000,
-    "epic": 500000
-  },
-  "giraffe": {
-    "legendary": 5000000,
-    "epic": 500000
-  },
-  "tiger": {
-    "legendary": 5000000,
-    "epic": 500000
-  },
-  "elephant": {
-    "legendary": 5000000,
-    "epic": 500000
-  },
-  "bat": {
-    "mythic": 10000,
-    "legendary": 5000,
-    "epic": 2000,
-    "rare": 1000,
-    "uncommon": 500,
-    "common": 100
-  },
-  "blaze": {
-    "legendary": 5000,
-    "epic": 2000,
-    "rare": 1000,
-    "uncommon": 500,
-    "common": 100
-  },
-  "chicken": {
-    "legendary": 5000,
-    "epic": 2000,
-    "rare": 1000,
-    "uncommon": 500,
-    "common": 100
-  },
-  "endermite": {
-    "legendary": 5000,
-    "epic": 2000,
-    "rare": 1000,
-    "uncommon": 500,
-    "common": 100
-  },
-  "horse": {
-    "legendary": 5000,
-    "epic": 2000,
-    "rare": 1000,
-    "uncommon": 500,
-    "common": 100
-  },
-  "jerry": {
-    "legendary": 5000,
-    "epic": 2000,
-    "rare": 1000,
-    "uncommon": 500,
-    "common": 100
-  },
-  "mooshroom_cow": {
-    "legendary": 5000,
-    "epic": 2000,
-    "rare": 1000,
-    "uncommon": 500,
-    "common": 100
-  },
-  "pig": {
-    "legendary": 5000,
-    "epic": 2000,
-    "rare": 1000,
-    "uncommon": 500,
-    "common": 100
-  },
-  "rabbit": {
-    "legendary": 5000,
-    "epic": 2000,
-    "rare": 1000,
-    "uncommon": 500,
-    "common": 100
-  },
-  "sheep": {
-    "legendary": 5000,
-    "epic": 2000,
-    "rare": 1000,
-    "uncommon": 500,
-    "common": 100
-  },
-  "silverfish": {
-    "legendary": 5000,
-    "epic": 2000,
-    "rare": 1000,
-    "uncommon": 500,
-    "common": 100
-  },
-  "skeleton": {
-    "legendary": 5000,
-    "epic": 2000,
-    "rare": 1000,
-    "uncommon": 500,
-    "common": 100
-  },
-  "wolf": {
-    "legendary": 5000,
-    "epic": 2000,
-    "rare": 1000,
-    "uncommon": 500,
-    "common": 100
-  },
-  "zombie": {
-    "legendary": 5000,
-    "epic": 2000,
-    "rare": 1000,
-    "uncommon": 500,
-    "common": 100
-  },
-  "baby_yeti": {
-    "legendary": 1000000,
-    "epic": 10000,
-    "rare": 2000,
-    "uncommon": 500,
-    "common": 100
-  },
-  "ender_dragon": {
-    "legendary": 100000000,
-    "epic": 5000000
-  },
-  "magma_cube": {
-    "legendary": 100000,
-    "epic": 2000
-  },
-  "ghoul": {
-    "epic": 2000
-  },
-  "hound": {
-    "legendary": 100000,
-    "epic": 2000
-  },
-  "slug": {
-    "legendary": 5000000,
-    "epic": 500000
-  },
-  "tarantula": {
-    "mythic": 150000,
-    "legendary": 100000,
-    "epic": 2000
-  },
-  "phoenix": {
-    "legendary": 5000000,
-    "epic": 500000
-  },
-  "dolphin": {
-    "legendary": 10000000,
-    "epic": 2500000,
-    "rare": 500000,
-    "uncommon": 50000,
-    "common": 10000
-  },
-  "apal": {
-    "legendary": 5000000,
-    "epic": 5000
-  },
-  "rock_turtle": {
-    "legendary": 5000000,
-    "epic": 500000
-  },
-  "parrot": {
-    "legendary": 5000,
-    "epic": 2000
-  },
-  "ammonite": {
-    "legendary": 5000
-  },
-  "armadillo": {
-    "legendary": 5000,
-    "epic": 2000
-  },
-  "bal": {
-    "legendary": 5000,
-    "epic": 2000
-  },
-  "bee": {
-    "legendary": 325000,
-    "epic": 100000,
-    "rare": 25000,
-    "uncommon": 5000,
-    "common": 2500
-  },
-  "bingo": {
-    "legendary": 5000000,
-    "mythic": 10000000
-  },
-  "black_cat": {
-    "legendary": 5000000,
-    "mythic": 10000000
-  }
+  "Blue_Whale": {"legendary": 5000000, "epic": 500000},
+  "Lion": {"legendary": 5000000, "epic": 500000},
+  "Monkey": {"legendary": 5000000, "epic": 500000},
+  "Giraffe": {"legendary": 5000000, "epic": 500000},
+  "Tiger": {"legendary": 5000000, "epic": 500000},
+  "Elephant": {"legendary": 5000000, "epic": 500000},
+  "Bat": {"mythic": 10000, "legendary": 5000, "epic": 2000, "rare": 1000, "uncommon": 500, "common": 100},
+  "Blaze": {"legendary": 5000, "epic": 2000, "rare": 1000, "uncommon": 500, "common": 100},
+  "Chicken": {"legendary": 5000, "epic": 2000, "rare": 1000, "uncommon": 500, "common": 100},
+  "Endermite": {"legendary": 5000, "epic": 2000, "rare": 1000, "uncommon": 500, "common": 100},
+  "Horse": {"legendary": 5000, "epic": 2000, "rare": 1000, "uncommon": 500, "common": 100},
+  "Jerry": {"legendary": 5000, "epic": 2000, "rare": 1000, "uncommon": 500, "common": 100},
+  "Mooshroom_Cow": {"legendary": 5000, "epic": 2000, "rare": 1000, "uncommon": 500, "common": 100},
+  "Pig": {"legendary": 5000, "epic": 2000, "rare": 1000, "uncommon": 500, "common": 100},
+  "Rabbit": {"legendary": 5000, "epic": 2000, "rare": 1000, "uncommon": 500, "common": 100},
+  "Sheep": {"legendary": 5000, "epic": 2000, "rare": 1000, "uncommon": 500, "common": 100},
+  "Silverfish": {"legendary": 5000, "epic": 2000, "rare": 1000, "uncommon": 500, "common": 100},
+  "Skeleton": {"legendary": 5000, "epic": 2000, "rare": 1000, "uncommon": 500, "common": 100},
+  "Wolf": {"legendary": 5000, "epic": 2000, "rare": 1000, "uncommon": 500, "common": 100},
+  "Zombie": {"legendary": 5000, "epic": 2000, "rare": 1000, "uncommon": 500, "common": 100},
+  "Baby_Yeti": {"legendary": 1000000, "epic": 10000, "rare": 2000, "uncommon": 500, "common": 100},
+  "Ender_Dragon": {"legendary": 100000000, "epic": 5000000},
+  "Magma_Cube": {"legendary": 100000, "epic": 2000},
+  "Ghoul": {"epic": 2000},
+  "Hound": {"legendary": 100000, "epic": 2000},
+  "Slug": {"legendary": 5000000, "epic": 500000},
+  "Tarantula": {"mythic": 150000, "legendary": 100000, "epic": 2000},
+  "Phoenix": {"legendary": 5000000, "epic": 500000},
+  "Dolphin": {"legendary": 10000000, "epic": 2500000, "rare": 500000, "uncommon": 50000, "common": 10000},
+  "Bal": {"legendary": 5000, "epic": 2000},
+  "Rock_Turtle": {"legendary": 5000000, "epic": 500000},
+  "Parrot": {"legendary": 5000, "epic": 2000},
+  "Ammonite": {"legendary": 5000},
+  "Armadillo": {"legendary": 5000, "epic": 2000},
+  "Bee": {"legendary": 325000, "epic": 100000, "rare": 25000, "uncommon": 5000, "common": 2500},
+  "Bingo": {"legendary": 5000000, "mythic": 10000000},
+  "Black_Cat": {"legendary": 5000000, "mythic": 10000000}
 }
